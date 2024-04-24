@@ -1,0 +1,4 @@
+name: ClearConfirm
+version: '${project.version}'
+main: me.mitlit.clearconfirm.ClearConfirm
+api-version: '1.20'
