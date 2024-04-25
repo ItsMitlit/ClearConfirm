@@ -1,0 +1,7 @@
+# ClearConfirm | Configuration
+# Created by Mitlit
+# Download the latest version at: https://modrinth.com/project/clearconfirm
+# Read the source code at: https://github.com/ItsMitlit/ClearConfirm
+
+# The message that appears when you attempt to use "/clear". USE '&' instead of '§' (For help with color codes check out https://minecraft.tools/en/color-code.php)
+confirmMessage: "&cAre you sure you want to clear this player's inventory? Use &6&n/clearconfirm&c to confirm."

@@ -2,3 +2,8 @@ name: ClearConfirm
 version: '${project.version}'
 main: me.mitlit.clearconfirm.ClearConfirm
 api-version: '1.20'
+commands:
+  clearconfirm:
+    description: Confirms the clear command.
+    usage: "/clearconfirm"
+    permission: minecraft.command.clear
